@@ -1,0 +1,23 @@
+body{
+    background: #303360;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #f4f4f4;
+}
+button{
+    display: inline;
+    background: #f8b627;
+    color: #f4f4f4;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 3px;
+    transition: 400ms;
+    text-decoration: none;
+    padding: none;
+    z-index: 10000;
+}
+img{
+    width: 200px;
+}
